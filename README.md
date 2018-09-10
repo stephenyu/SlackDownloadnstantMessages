@@ -1,6 +1,7 @@
 # Download Slack Conversations
 
-Given a User IM Channel ID, writes to a JSON file for you to peruse
+Given a User IM Channel ID, writes to a JSON file for you to peruse.
+
 Get your Slack User Token at https://api.slack.com/custom-integrations/legacy-tokens
 
 Return a List of All User Matched IM Channel IDs
